@@ -1,0 +1,61 @@
+body {
+	background: #EEEEEE;
+	font-family: Times New Roman, serif;
+}
+
+a {
+	color: darkred;
+	font-weight: bold;
+	text-decoration-style: dotted;
+}
+
+div {
+	background-color: #EEEEEE;
+}
+
+.bodygraf {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+	font-style: italic;
+}
+
+.one {background-color: white;
+	margin-top: 20px;
+	padding: 40px 40px;
+	border: 1px solid black;
+	/*Add some border and/or padding here.*/
+}
+
+.four {
+	background-color: white;
+	margin-top: 20px;
+	padding: 40px 40px;
+	border: 1px solid black;
+	
+}
+
+.five {
+	background-color: white;
+	margin-top: 20px;
+	padding: 40px 40px;
+	border: 1px solid black;
+
+}
+.six {
+	background-color: white;
+	margin-top: 20px;
+	padding: 40px 40px;
+	border: 1px solid black;
+}
+
+.seven {
+	background-color: white;
+	margin-top: 20px;
+	padding: 40px 40px;
+	border: 1px solid black;
+}
+
+img {
+	/*Set the image's width property here.*/
+}
